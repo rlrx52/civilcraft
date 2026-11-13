@@ -1,3 +1,5 @@
 .cc-test/
 node_modules/
 dist/
+/.civilcraft-local/
+/devshell/vendor/
